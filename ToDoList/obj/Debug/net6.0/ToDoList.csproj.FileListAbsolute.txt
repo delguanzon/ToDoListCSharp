@@ -1,0 +1,15 @@
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.exe
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache

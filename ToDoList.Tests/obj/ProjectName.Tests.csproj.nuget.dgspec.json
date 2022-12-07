@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\ProjectName.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\ProjectName.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\ProjectName.Tests.csproj",
+        "projectName": "ProjectName.Tests",
+        "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\ProjectName.Tests.csproj",
+        "packagesPath": "C:\\Users\\yodel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "X:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yodel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj": {
+                "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj",
+        "projectName": "ProjectName",
+        "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj",
+        "packagesPath": "C:\\Users\\yodel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "X:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yodel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
